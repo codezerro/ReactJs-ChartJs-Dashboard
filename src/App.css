@@ -1,0 +1,27 @@
+.logo-font {
+  font-family: 'Press Start 2P', cursive;
+  background: -webkit-linear-gradient(rgb(0, 158, 161), rgb(60, 143, 245));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.chart-w-h {
+  width: 700px;
+  height: 500px;
+}
+
+.basis-1-2 {
+  flex-basis: 48% !important;
+}
+.colorChange {
+  color: brown;
+  font-family: myfont;
+  font-weight: 600;
+}
+.sidebar-col {
+  background-color: #33373e;
+  text-align: center;
+  width: 300px;
+}
+a {
+  margin-bottom: 15px;
+}
